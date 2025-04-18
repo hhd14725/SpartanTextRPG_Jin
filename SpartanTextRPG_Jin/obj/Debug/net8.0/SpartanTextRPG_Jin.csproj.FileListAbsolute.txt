@@ -1,0 +1,14 @@
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\obj\Debug\net8.0\SpartanTextRPG_Jin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\obj\Debug\net8.0\SpartanTextRPG_Jin.AssemblyInfoInputs.cache
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\obj\Debug\net8.0\SpartanTextRPG_Jin.AssemblyInfo.cs
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\obj\Debug\net8.0\SpartanTextRPG_Jin.csproj.CoreCompileInputs.cache
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\bin\Debug\net8.0\SpartanTextRPG_Jin.exe
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\bin\Debug\net8.0\SpartanTextRPG_Jin.deps.json
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\bin\Debug\net8.0\SpartanTextRPG_Jin.runtimeconfig.json
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\bin\Debug\net8.0\SpartanTextRPG_Jin.dll
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\bin\Debug\net8.0\SpartanTextRPG_Jin.pdb
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\obj\Debug\net8.0\SpartanTextRPG_Jin.dll
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\obj\Debug\net8.0\refint\SpartanTextRPG_Jin.dll
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\obj\Debug\net8.0\SpartanTextRPG_Jin.pdb
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\obj\Debug\net8.0\SpartanTextRPG_Jin.genruntimeconfig.cache
+D:\Unity_VisualStudio_project\project2\SpartanTextRPG_Jin\SpartanTextRPG_Jin\obj\Debug\net8.0\ref\SpartanTextRPG_Jin.dll

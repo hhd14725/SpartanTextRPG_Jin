@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\data\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\data\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\screens\\equipscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\screens\\equipscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\screens\\inventoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\screens\\inventoryscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\screens\\shoppurchasescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\screens\\shoppurchasescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\screens\\shopscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\screens\\shopscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\screens\\statusscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\screens\\statusscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\screens\\mainmenuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\screens\\mainmenuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\data\\itemlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\data\\itemlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\data\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\data\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\screens\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\screens\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\screens\\shopsellscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\screens\\shopsellscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|d:\\unity_visualstudio_project\\project2\\spartantextrpg_jin\\spartantextrpg_jin\\spartantextrpg_jin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D0348DA-A32F-4D5C-ACC2-6953661C6792}|SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj|solutionrelative:spartantextrpg_jin\\spartantextrpg_jin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquipScreen.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\EquipScreen.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Screens\\EquipScreen.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\EquipScreen.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Screens\\EquipScreen.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:11:16.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryScreen.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\InventoryScreen.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Screens\\InventoryScreen.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\InventoryScreen.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Screens\\InventoryScreen.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "SpartanTextRPG_Jin\\Screens",
+              "WhenOpened": "2025-04-17T05:20:11.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopPurchaseScreen.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\ShopPurchaseScreen.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Screens\\ShopPurchaseScreen.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\ShopPurchaseScreen.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Screens\\ShopPurchaseScreen.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAtwC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "SpartanTextRPG_Jin\\Screens",
+              "WhenOpened": "2025-04-17T13:57:16.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShopScreen.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\ShopScreen.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Screens\\ShopScreen.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\ShopScreen.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Screens\\ShopScreen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "SpartanTextRPG_Jin\\Screens",
+              "WhenOpened": "2025-04-17T02:51:56.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatusScreen.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\StatusScreen.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Screens\\StatusScreen.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\StatusScreen.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Screens\\StatusScreen.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswD4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:18:55.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainmenuScreen.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\MainmenuScreen.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Screens\\MainmenuScreen.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\MainmenuScreen.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Screens\\MainmenuScreen.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAvwDUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:18:51.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Data\\Inventory.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Data\\Inventory.cs",
+              "ToolTip": "SpartanTextRPG_Jin/Data/Inventory.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwGcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "SpartanTextRPG_Jin\\Data",
+              "OverriddenToolTip": "SpartanTextRPG_Jin/Data/Inventory.cs",
+              "WhenOpened": "2025-04-17T11:11:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemLists.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Data\\ItemLists.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Data\\ItemLists.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Data\\ItemLists.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Data\\ItemLists.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:33:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Data\\Item.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Data\\Item.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Data\\Item.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Data\\Item.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "SpartanTextRPG_Jin\\Data",
+              "WhenOpened": "2025-04-17T07:59:13.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Data\\Player.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Data\\Player.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Data\\Player.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Data\\Player.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "SpartanTextRPG_Jin\\Data",
+              "WhenOpened": "2025-04-17T02:50:27.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Screen.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\Screen.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Screens\\Screen.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\Screen.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Screens\\Screen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:50:45.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\GameManager.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\GameManager.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\GameManager.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\GameManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:35:44.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Program.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Program.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Program.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwBgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "SpartanTextRPG_Jin",
+              "WhenOpened": "2025-04-17T02:48:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobType.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Data\\JobType.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Data\\JobType.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Data\\JobType.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Data\\JobType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:36:55.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopSellScreen.cs",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\ShopSellScreen.cs",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\Screens\\ShopSellScreen.cs",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\Screens\\ShopSellScreen.cs",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\Screens\\ShopSellScreen.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:08:02.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SpartanTextRPG_Jin.csproj",
+              "DocumentMoniker": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj",
+              "RelativeDocumentMoniker": "SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj",
+              "ToolTip": "D:\\Unity_VisualStudio_project\\project2\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj",
+              "RelativeToolTip": "SpartanTextRPG_Jin\\SpartanTextRPG_Jin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T02:50:02.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
